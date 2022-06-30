@@ -1,0 +1,50 @@
+.grid {
+	margin: 1em;
+	display: grid;
+	grid-template-columns: repeat(autofit, minMax(200px, 400px));
+	grid-gap: 2px;
+	counter-reset: div;
+}
+
+.grid div {
+	border: solid;
+	text-align: center;
+}
+
+/* spanning cols, complete values missing */
+
+.col-2 {
+	grid-column: auto/span 2;
+}
+
+.col-3 {
+	grid-column: auto/span 3;
+}
+
+.col-6 {
+	grid-column: auto/span 6;
+}
+
+.col-8 {
+	grid-column: auto/span 8;
+}
+
+/* spanning rows , complete values missing*/
+
+.row-2 {
+	grid-row: auto/span 2;
+}
+img {
+	position: relative;
+}
+
+img::after {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	top: 0;
+	left: 0;
+	display: block;
+	content: "";
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "key": "INSPIRIT",
+        "price": 149,
+        "title": "Inspirit"
+    },
+    {
+        "key": "CONTENT_CREATION_MASTERCLASS",
+        "price": 299,
+        "title": "Content Creation Masterclass"
+    },
+    {
+        "key": "PRODUCT_GROWTH_MASTERCLASS",
+        "price": 299,
+        "title": "Product Growth Masterclass"
+    },
+    {
+        "key": "STARTUP_MASTERCLASS",
+        "price": 299,
+        "title": "Startup Masterclass"
+    },
+    {
+        "key": "ACCELERATION_PASS",
+        "price": 399,
+        "title": "Acceleration Pass"
+    },
+    {
+        "key": "UNICORN_PASS",
+        "price": 499,
+        "title": "Unicorn Pass"
+    }
+]

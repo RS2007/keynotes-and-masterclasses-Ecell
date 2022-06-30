@@ -1,0 +1,29 @@
+[
+	{
+		"question": "How many workshops can I register for?",
+		"answer": "No bar at all! We will not limit your learning. :)"
+	},
+
+	{
+		"question": "Are there any workshop slot clashes?",
+		"answer": "No workshop clashes at all. There are different slot for all workshops.The schedule will be shared once you register yourself."
+	},
+
+	{
+		"question": "Where are the workshops going to be held?",
+		"answer": "They will be held in a virtual set up using the Zoom Video Conferencing Tool."
+	},
+
+	{
+		"question": "Will the workshop sessions be interactive?",
+		"answer": "Well, it will be if you want it to be! Our instructors are industry professionals who are quite eager to interact with the young audience."
+	},
+	{
+		"question": "Is it possible to cancel/refund the registration once done?",
+		"answer": "We do not encourage refund and cancellation of registrations"
+	},
+	{
+		"question": "When will I get my e-certificate?",
+		"answer": "E-Certificates will be given only if you are present for the entire session of your registered workshop. They will be circulated via email once E-Summit has concluded."
+	}
+]

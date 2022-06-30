@@ -1,0 +1,52 @@
+{
+	"keynote": [
+		{
+			"title": "Diving into Social commerce ",
+			"lecturerName": "Mr. Sanjeev Barnwal ",
+			"lecturerDesignation": "Founder & CTO of Meesho",
+			"timeAndDate": "3rd March, 6:45 PM - 7:30 PM",
+			"description": "Sanjeev Barnwal is the Co-founder and CTO of Meesho, the social commerce platform. After completing his course at IIT, Sanjeev joined Sony in Japan. He was a part of the core tech team that developed the company’s digital single-lens reflex camera (DSLR), and cyber-shot cameras. Today, at Meesho, building great tech still remains his passion. "
+		},
+		{
+			"title": "Life is Short",
+			"lecturerName": "Mr. Ashish Singhal ",
+			"lecturerDesignation": "Founder & CEO of CoinSwitch",
+			"timeAndDate": "4th March, 5:00 PM - 5:45 PM",
+			"description": "Ab illo tempore, ab est sed immemorabili. Cum sociis natoque penatibus et magnis dis parturient natoque penatibus far guhnfi."
+		},
+		{
+			"title": "Life is Short",
+			"lecturerName": "Mr. Addit Palicha & Mr. Kaivalya Vohra",
+			"lecturerDesignation": "Founders of Zepto ",
+			"timeAndDate": "4th March, 5:45 PM - 6:30 PM",
+			"description": "Ab illo tempore, ab est sed immemorabili. Cum sociis natoque penatibus et magnis dis parturient natoque penatibus far guhnfi."
+		},
+		{
+			"title": "Life is Short",
+			"lecturerName": "Mr. Ajai Chowdhary",
+			"lecturerDesignation": "Chairman of HCL",
+			"timeAndDate": "5th March, 6:00 PM - 6:45 PM",
+			"description": "Ab illo tempore, ab est sed immemorabili. Cum sociis natoque penatibus et magnis dis parturient natoque penatibus far guhnfi."
+		}
+	],
+	"panel": [
+		{
+			"title": "IITM Unicorns",
+			"oneLiner": "A panel by DarwinBox,Freshworks & Postman",
+			"timeAndDate": "10:00 AM, 3rd March 2022",
+			"description": "Ab illo tempore, ab est sed immemorabili. Cum sociis natoque penatibus et magnis dis parturient natoque penatibus far guhnfi."
+		},
+		{
+			"title": "IITM Unicorns",
+			"oneLiner": "A panel by DarwinBox,Freshworks & Postman",
+			"timeAndDate": "10:00 AM, 3rd March 2022",
+			"description": "Ab illo tempore, ab est sed immemorabili. Cum sociis natoque penatibus et magnis dis parturient natoque penatibus far guhnfi."
+		},
+		{
+			"title": "IITM Unicorns",
+			"oneLiner": "A panel by DarwinBox,Freshworks & Postman",
+			"timeAndDate": "10:00 AM, 3rd March 2022",
+			"description": "Ab illo tempore, ab est sed immemorabili. Cum sociis natoque penatibus et magnis dis parturient natoque penatibus far guhnfi."
+		}
+	]
+}

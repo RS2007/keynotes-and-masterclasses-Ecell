@@ -1,0 +1,142 @@
+[
+	{
+		"key": "CONTENT_CREATION_MASTERCLASS",
+		"img": "cc",
+		"title": "Content Creation Masterclass",
+		"oneLiner": "Helping new age creators ride the wave of content entrepreneurship",
+		"description": "",
+		"price": 299,
+		"classes": [
+			{
+				"title": "Quality Content Creation: Instagram & YouTube",
+				"speaker": {
+					"name": "Pranjal Kamra",
+					"image": "pranjal-kamra",
+					"designation": "Founder, Finology Ventures | Popular YouTuber",
+					"linkedIn": "https://www.linkedin.com/in/pranjal-kamra-365355a0"
+				},
+				"time": "6th March, 2-3 PM IST"
+			},
+			{
+				"title": "Evolution & Democratization of Content Creation",
+				"speaker": {
+					"name": "Aditi Shrivastava",
+					"image": "aditi-shrivastava",
+					"designation": "Co-founder & CEO, Pocket Aces",
+					"linkedIn": ""
+				},
+				"time": "4th March, 7 PM IST"
+			},
+			{
+				"title": "How to make money from your art?",
+				"speaker": {
+					"name": "Deepak Kanakraju",
+					"image": "deepak-kanakraju",
+					"designation": "Digital Marketing Consultant, YouTuber (Digital Deepak)",
+					"linkedIn": "https://www.linkedin.com/in/deepakkanakaraju"
+				},
+				"time": "5th March, 10 AM IST"
+			}
+		]
+	},
+	{
+		"key": "PRODUCT_GROWTH_MASTERCLASS",
+		"img": "pg",
+		"title": "Product And Growth Masterclass",
+		"oneLiner": "The ABCs of product development: from ideation to execution",
+		"description": "",
+		"price": 299,
+		"classes": [
+			{
+				"title": "PM101: What is Product Management?",
+				"speaker": {
+					"name": "Suhas Motwani",
+					"image": "suhas-motwani",
+					"designation": "Founder of The Product Folks",
+					"linkedIn": "https://www.linkedin.com/in/suhasmotwani"
+				},
+				"time": "4th March, 4 PM IST"
+			},
+			{
+				"title": "User Research",
+				"speaker": {
+					"name": "Arindam Mukherjee",
+					"image": "arindam-mukherjee",
+					"designation": "Co-founder & CEO, NextLeap | Former Sr. Director, Product, UX & Growth at Flipkart",
+					"linkedIn": "https://www.linkedin.com/in/arindammukho"
+				},
+				"time": "4th March, 7 PM IST"
+			},
+			{
+				"title": "Product Design",
+				"speaker": {
+					"name": "Charu Chaudha",
+					"image": "charu-chaudha",
+					"designation": "UX @ Google",
+					"linkedIn": "https://www.linkedin.com/in/charu-choudha"
+				},
+				"time": "5th March, 4 PM IST"
+			},
+			{
+				"title": "Hunt for Product Market Fit",
+				"speaker": {
+					"name": "Anshumani Ruddra",
+					"image": "anshumani-ruddra",
+					"designation": "PM lead, Google Pay",
+					"linkedIn": "https://www.linkedin.com/in/anshumani/"
+				},
+				"time": "6th March, 12 PM IST"
+			}
+		]
+	},
+	{
+		"key": "STARTUP_MASTERCLASS",
+		"img": "sm",
+		"title": "Startup Fundamentals Masterclass",
+		"oneLiner": "Delivering the curated startup essentials for our future Unicorns",
+		"description": "",
+		"price": 299,
+		"classes": [
+			{
+				"title": "Startup finances",
+				"speaker": {
+					"name": "Akshat Shrivastava",
+					"image": "akshat-shrivastava",
+					"designation": "Management Consultant, Thought Leader and Entrepreneur",
+					"linkedIn": "https://www.linkedin.com/in/akshatshrivastavainsead"
+				},
+				"time": "6th March, 10:00 AM - 11:30 AM"
+			},
+			{
+				"title": "Sustaining a Company",
+				"speaker": {
+					"name": "Amit Kumar Agarwal",
+					"image": "amit-kumar-agarwal",
+					"designation": "Founder and CEO, NoBroker.com",
+					"linkedIn": "https://www.linkedin.com/in/amit-kumar-agarwal-5b30301"
+				},
+				"time": "5th March, 4:00 PM - 5:30 PM"
+			},
+			{
+				"title": "Business Plan and Strategy",
+				"speaker": {
+					"name": "Prashant Pitti",
+					"image": "prashant-pitti",
+					"designation": "Co-Founder at EaseMyTrip.com",
+					"linkedIn": "https://www.linkedin.com/in/prashantpitti"
+				},
+				"time": "4th March, 7:00 PM - 8:30 PM"
+			},
+			{
+				"title": "Launch and Growth Hacks",
+				"speaker": {
+					"name": "Swaroop 'Kittu' Kolluri",
+					"image": "swaroop-kolluri",
+					"designation": "Founder and Managing Director, Neotribe Ventures",
+					"linkedIn": "https://www.linkedin.com/in/kittukolluri"
+				},
+				"time": "5th March, 11:00 AM - 12:30 PM"
+			}
+		]
+	}
+]

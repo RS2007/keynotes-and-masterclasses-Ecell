@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Mr. Piyush Goyal",
+		"designation": "Hon'ble Minister of Commerce & Industry, Govt. of India",
+		"photo": "piyush-goyal"
+	},
+	{
+		"name": "Mr. Rahul Chari",
+		"designation": "Co-founder & CTO, PhonePe",
+		"photo": "rahul-chari"
+	},
+	{
+		"name": "Mr. Kunal Bahl",
+		"designation": "Co-founder, Snapdeal & Titan Capital",
+		"photo": "kunal-bahl"
+	},
+	{
+		"name": "Mr. Sanjeev Barnwal",
+		"designation": "Founder & CTO of Meesho",
+		"photo": "sanjeev-barnwal"
+	},
+	{
+		"name": "Mr. Aadit Palicha & Mr. Kaivalya Vohra",
+		"designation": "Founders of Zepto",
+		"photo": "zepto-founders"
+	},
+	{
+		"name": "Mr. Ajai Chowdhary",
+		"designation": "Co-founder of HCL",
+		"photo": "ajai-chowdhary"
+	},
+	{
+		"name": "Mr. Ashish Singhal",
+		"designation": "Founder & CEO of CoinSwitch Kuber",
+		"photo": "ashish-singhal"
+	},
+	{
+		"name": "Mr. Vasant Sridhar",
+		"designation": "Cofounder & CSO of OfBusiness",
+		"photo": "vasant-sridhar"
+	},
+	{
+		"name": "Mr. Amrit Acharya",
+		"designation": "Founder and CEO of Zetwerk",
+		"photo": "amrit-acharya"
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"key": "ACCELERATION_PASS",
+		"img": "acceleration-pass",
+		"oneLiner": "7 Inspirit keynotes and panels & All 13 Masterclasses",
+		"title": "Acceleration Pass",
+		"total": 747,
+		"price": 399,
+		"items": [
+			{
+				"key": "INSPIRIT",
+				"price": 149,
+				"title": "Inspirit"
+			},
+			{
+				"key": "PRODUCT_GROWTH_MASTERCLASS",
+				"price": 299,
+				"title": "Product Growth Masterclass"
+			},
+			{
+				"key": "STARTUP_MASTERCLASS",
+				"price": 299,
+				"title": "Startup Masterclass"
+			}
+		]
+	},
+	{
+		"key": "UNICORN_PASS",
+		"img": "unicorn-pass",
+		"oneLiner": "7 Inspirit keynotes and panels & All 13 Masterclasses",
+		"title": "Unicorn Pass",
+		"total": 1046,
+		"price": 499,
+		"items": [
+			{
+				"key": "INSPIRIT",
+				"price": 149,
+				"title": "Inspirit"
+			},
+			{
+				"key": "PRODUCT_GROWTH_MASTERCLASS",
+				"price": 299,
+				"title": "Product Growth Masterclass"
+			},
+			{
+				"key": "STARTUP_MASTERCLASS",
+				"price": 299,
+				"title": "Startup Masterclass"
+			},
+			{
+				"key": "CONTENT_CREATION_MASTERCLASS",
+				"price": 299,
+				"title": "Content Creation Masterclass"
+			}
+		]
+	}
+]
